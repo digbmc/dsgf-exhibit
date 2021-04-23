@@ -14,3 +14,6 @@ vendor/
 
 # temporarily ignore gemfile.lock
 Gemfile.lock
+
+# ignore workspace settings in vscode
+workspace.code-workspace
