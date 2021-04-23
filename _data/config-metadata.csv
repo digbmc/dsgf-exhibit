@@ -4,6 +4,7 @@ creator,Creator,
 date,Date Created,
 description,Description,
 subject,Subjects,true
+provenance_location, Provenance Location
 location,Location
 latitude,Latitude
 longitude,Longitude
@@ -13,3 +14,6 @@ type,Type,
 format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,
+museum, Museum,
+curator, Digital Curator
+notes, Notes
