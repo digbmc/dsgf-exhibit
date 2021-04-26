@@ -6,8 +6,7 @@ description,Description,
 subject,Subjects,true
 provenance_location, Provenance Location
 location,Location
-latitude,Latitude
-longitude,Longitude
+
 source,Source
 identifier,Source Identifier
 type,Type,

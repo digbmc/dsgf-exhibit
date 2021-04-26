@@ -10,14 +10,14 @@ permalink: /about.html
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
-## About the Collection
+## Our exhibit
 
 This site is generated using [`collectionbuilder-gh`](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
 - a CSV of collection metadata
 - a folder of JPEG images or PDF documents
 
-The base site features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+This site features objects curated by Bryn Mawr College Digital Scholarship Graduate Fellows.
 
 ## About the About Page
 
